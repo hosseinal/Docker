@@ -1,0 +1,21 @@
+# Local notes (may contain secrets)
+note.txt
+
+# Dependencies
+node_modules/
+
+# Environment and secrets
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build / deploy artifacts
+deploy.zip
